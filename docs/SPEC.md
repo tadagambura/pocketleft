@@ -35,7 +35,7 @@ Enter your income dates, bills and savings target, and PocketLeft tells you what
 | Premium | £2.99/month or £19.99/year: recurring bills, forecasts, multiple incomes, widgets |
 | Ads | Light, never on the main number |
 
-Prices are starting points; test before committing.
+Prices are starting points; test before committing. **Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
 
 ## Retention: The Progression Loop
 
@@ -68,6 +68,7 @@ cheapest model, shared budget cap, premium-gated.)
 
 - **Platform:** Expo app.
 - **Data:** On the device only. No bank connection in version one.
+- **Backend:** AI proxy for the premium natural-language check. Premium backup and sync use the shared portfolio backend (see the master repo's HOSTING.md).
 - **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob, shared Progression Loop module).
 
 ## Growth engine
