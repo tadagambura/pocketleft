@@ -51,11 +51,15 @@ Prices are starting points; test before committing. **Portfolio premium promise:
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
 
-## Animation and tone
+## Animation and tone: five signature animations
 
-**Calm.** Smooth, reassuring motion only: gentle ticks, numbers easing into place. No characters, jokes or drama.
+**Calm.** Gentle, kind humour and smooth motion: a stickman yawning after a shift, a fly escaping an empty pocket. No drama, nothing that adds stress.
 
-- Today's number eases to its new value; a soft green check when on track
+- Safe-to-spend hits £0: the stickman pulls out an empty pocket, a fly escapes, he scratches his head, then a helpful tip appears
+- Payday: the calendar page flips and the stickman does a little jig
+- 'Can I afford it?' yes: a thumbs-up stickman in a tiny cape
+- 'Can I afford it?' not yet: the stickman gently puts the item back on the shelf and pats it ('next payday, buddy')
+- Bill paid: the envelope zooms off with a whoosh
 
 **Line we don't cross:** Never alarming: no flashing red or panic animations about money.
 
