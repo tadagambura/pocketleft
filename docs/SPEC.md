@@ -1,6 +1,6 @@
 # PocketLeft: Spec
 
-**What can I safely spend before payday?** · #9 of 33 in the build order · Easy · Revenue potential: High · Money & Work · Source: ChatGPT + Perplexity (merges PocketLeft, Payday and Payday Plan)
+**What can I safely spend before payday?** · #6 of 33 · Wave 1: Daily keepers · Used: Daily · Easy · Revenue potential: High · Money & Work · Source: ChatGPT + Perplexity (merges PocketLeft, Payday and Payday Plan)
 
 ## One-liner
 
@@ -50,6 +50,11 @@ Prices are starting points; test before committing.
 
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
+
+## AI
+
+**Light.** Natural-language 'can I afford it?' ('Can I do £60 tonight and £30 on Saturday?'). Same rule: AI understands the question, code does the maths. (Portfolio rule: plain code first, code does the maths,
+cheapest model, shared budget cap, premium-gated.)
 
 ## Platform & data
 

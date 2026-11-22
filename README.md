@@ -2,7 +2,7 @@
 
 **What can I safely spend before payday?**
 
-> #9 of 33 in the build order · Easy · Revenue potential: High · Money & Work
+> #6 of 33 · Wave 1: Daily keepers · Used: Daily · Easy · Revenue potential: High · Money & Work
 
 ## What it is
 
@@ -56,6 +56,10 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Share | Limited (money is private); grow through search and content |
 | Next step | Each payday starts a fresh cycle with a recap of the last one |
 | Cadence | Daily glance, per pay cycle |
+
+## AI
+
+**Light.** Natural-language 'can I afford it?' ('Can I do £60 tonight and £30 on Saturday?'). Same rule: AI understands the question, code does the maths.
 
 ## Watch-outs
 
