@@ -1,6 +1,6 @@
 # PocketLeft: Spec
 
-**What can I safely spend before payday?** · #6 of 33 · Wave 1: Daily keepers · Used: Daily · Easy · Revenue potential: High · Money & Work · Source: ChatGPT + Perplexity (merges PocketLeft, Payday and Payday Plan)
+**What can I safely spend before payday?** · #6 of 32 · Wave 1: Daily keepers · Used: Daily · Easy · Revenue potential: High · Money & Work · Source: ChatGPT + Perplexity (merges PocketLeft, Payday and Payday Plan)
 
 ## One-liner
 
