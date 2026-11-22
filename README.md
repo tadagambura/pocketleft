@@ -57,6 +57,14 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | Each payday starts a fresh cycle with a recap of the last one |
 | Cadence | Daily glance, per pay cycle |
 
+## Animation and tone
+
+**Calm.** Smooth, reassuring motion only: gentle ticks, numbers easing into place. No characters, jokes or drama.
+
+- Today's number eases to its new value; a soft green check when on track
+
+**Line we don't cross:** Never alarming: no flashing red or panic animations about money.
+
 ## AI
 
 **Light.** Natural-language 'can I afford it?' ('Can I do £60 tonight and £30 on Saturday?'). Same rule: AI understands the question, code does the maths.

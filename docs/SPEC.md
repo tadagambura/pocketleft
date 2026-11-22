@@ -51,6 +51,14 @@ Prices are starting points; test before committing.
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
 
+## Animation and tone
+
+**Calm.** Smooth, reassuring motion only: gentle ticks, numbers easing into place. No characters, jokes or drama.
+
+- Today's number eases to its new value; a soft green check when on track
+
+**Line we don't cross:** Never alarming: no flashing red or panic animations about money.
+
 ## AI
 
 **Light.** Natural-language 'can I afford it?' ('Can I do £60 tonight and £30 on Saturday?'). Same rule: AI understands the question, code does the maths. (Portfolio rule: plain code first, code does the maths,
