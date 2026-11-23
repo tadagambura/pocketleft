@@ -2,7 +2,7 @@
 
 **What can I safely spend before payday?**
 
-> #6 of 31 · Wave 1: Daily keepers · Used: Daily · Easy · Revenue potential: High · Money & Work
+> #6 of 16 · Wave 1: Daily keepers · Used: Daily · Easy · Revenue potential: High · Money & Work
 
 ## What it is
 
@@ -25,6 +25,7 @@ Young workers, students and parents paid weekly, fortnightly, monthly or irregul
 - Safe-to-spend today, this week and until payday
 - 'Can I afford £X?' check
 - Payday countdown and upcoming-bill alerts
+- Subscriptions and renewals: monthly total, trial-ending and renewal reminders, cancel-before list
 
 **Example:** Before a £45 night out, a user checks and sees it still leaves enough for rent, travel and food before Friday's payday.
 
@@ -85,5 +86,5 @@ Planning. The build spec is in [`docs/SPEC.md`](docs/SPEC.md).
 
 ---
 
-Part of a portfolio of 31 small consumer apps that share one codebase, one retention module
+Part of a portfolio of 16 small consumer apps that share one codebase, one retention module
 and one marketing and upkeep system ([growth-maintenance-engine](https://github.com/tadagambura/growth-maintenance-engine)).

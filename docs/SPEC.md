@@ -1,6 +1,6 @@
 # PocketLeft: Spec
 
-**What can I safely spend before payday?** · #6 of 31 · Wave 1: Daily keepers · Used: Daily · Easy · Revenue potential: High · Money & Work · Source: ChatGPT + Perplexity (merges PocketLeft, Payday and Payday Plan)
+**What can I safely spend before payday?** · #6 of 16 · Wave 1: Daily keepers · Used: Daily · Easy · Revenue potential: High · Money & Work · Source: ChatGPT + Perplexity (absorbs SubSpot)
 
 ## One-liner
 
@@ -19,6 +19,7 @@ Enter your income dates, bills and savings target, and PocketLeft tells you what
 3. Safe-to-spend today, this week and until payday
 4. 'Can I afford £X?' check
 5. Payday countdown and upcoming-bill alerts
+6. Subscriptions and renewals: monthly total, trial-ending and renewal reminders, cancel-before list
 
 ## Not in MVP
 
